@@ -1,0 +1,63 @@
+body{
+    background-color: beige;
+}
+
+.middle-container
+{
+    max-width: 960px;
+    background: url(https://png.pngtree.com/thumb_back/fh260/background/20240601/pngtree-nice-picsart-cb-backgrounds-hd-phone-wallpaper-image_15846248.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+        height: 686px;
+}
+
+.inner-container
+{
+    max-width: 540px;
+    background-color: #fff;
+    min-height: 400px;
+    transform: translateY(40px);
+}
+
+.carousel-control-prev-icon
+{
+    transition: .2s ease;
+}
+
+.carousel-control-prev-icon:hover
+{
+     background-color: rgba(16, 194, 46, 0.226);
+    width: 58px;
+    border-radius: 22px;
+}
+
+.carousel-control-next-icon
+{
+    transition: .2s ease;
+}
+
+.carousel-control-next-icon:hover
+{
+     background-color: rgba(16, 194, 46, 0.226);
+    width: 58px;
+    border-radius: 22px;
+}
+
+.m-t-50
+{
+    margin-top: 50px;
+}
+
+.m-t-20
+{
+    margin-top: 20px;
+}
+.m-b-30
+{
+    margin-bottom: 30px;
+}
+
+.p-t-10
+{
+    padding-top: 10px;
+}
